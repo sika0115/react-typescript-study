@@ -33,4 +33,4 @@ let undefined1: undefined = undefined;
 
 //object
 let obj1: object = {};
-let obj2: { id: number; name: string } = { id: 1, name: "AAA" };
+let obj2: { id: number; name: string } = { id: 1, name: "AAA" }; //id:1等を書かないとエラー起きる
